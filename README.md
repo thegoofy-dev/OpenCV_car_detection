@@ -4,7 +4,7 @@
 ```bash
 git clone git@github.com:thegoofy-dev/OpenCV_car_detection.git
 cd opencv-car-detection-video
-python main.py
+python detector.py
 ```
 
 ## install packages
